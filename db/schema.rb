@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160113151814) do
+ActiveRecord::Schema.define(version: 20160113181719) do
 
   create_table "todo_lists", force: :cascade do |t|
     t.string   "title"
